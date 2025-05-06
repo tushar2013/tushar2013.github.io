@@ -9,8 +9,8 @@
   </head>
   <body>
     <div class="wrapper">
-      <div>One</div>
-      <div>Two</div>
+      <div>A quick brown fox jumps right over the lazy dog and not just only once but multiple times.</div>
+      <div>A quick brown fox jumps right over the lazy dog and not just only once but multiple times.</div>
     </div>
   </body>
 </html>
