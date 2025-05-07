@@ -5,10 +5,13 @@
         display:grid;
         grid-template-columns:200px 1600px;
       }
+      .check_border {
+        border: 2px solid blue;
+      }
     </style>
   </head>
   <body>
-    <h1 style="border: 2px solid blue; text-align: center;"> TUSHAR MAZUMDAR </h1>
+    <h1 class="check_border> TUSHAR MAZUMDAR </h1>
     <div class="wrapper">
       <div>
         <h3> SKILLS </h3>
