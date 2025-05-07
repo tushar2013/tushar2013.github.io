@@ -12,14 +12,14 @@
     <div class="wrapper">
       <div>
         <h3> SKILLS </h3>
-        <h3> PROGRAMMING </h3>
+        <h4> PROGRAMMING </h4>
         Python and iPython Notebook
         SQL
         JavaScript (D3.js), HTML, and CSS
       </div>
       <div>
-        EXPERIENCE
-        KIVI CAPITAL | Trade Operations Analyst
+        <h3> EXPERIENCE </h3>
+        <h4> KIVI CAPITAL | Trade Operations Analyst </h4>
         Apr 2024 – Nov 2024 | Gurgaon, HARYANA
           • Built explanatory linear regression model for an NYC startup to identify the
             types of people who are the most active microlenders
