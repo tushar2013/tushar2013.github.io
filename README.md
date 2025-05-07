@@ -23,7 +23,7 @@
         Apr 2024 – Nov 2024 | Gurgaon, HARYANA
         <ul>
           <li> Built explanatory linear regression model for an NYC startup to identify the types of people who are the most active microlenders. </li>
-          <li> Scraped, cleaned, and assimilated movie box office data as inputs to box office revenue prediction model.
+          <li> Scraped, cleaned, and assimilated movie box office data as inputs to box office revenue prediction model. </li>
           <li> Visualized univariate and multivariate clusters of water usage, price, income, and other factors in the US using Jenks and K-Means algorithms. </li>
         </ul>
       </div>
