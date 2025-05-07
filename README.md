@@ -8,7 +8,7 @@
     </style>
   </head>
   <body>
-    <h1> TUSHAR MAZUMDAR </h1>
+    <h1> <center> TUSHAR MAZUMDAR </center> </h1>
     <div class="wrapper">
       <div>
         <h3> SKILLS </h3>
