@@ -3,7 +3,7 @@
     <style>
       .wrapper{
         display:grid;
-        grid-template-columns:200px 600px;
+        grid-template-columns:200px 1600px;
       }
     </style>
   </head>
