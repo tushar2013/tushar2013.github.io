@@ -8,11 +8,14 @@
       .check_border {
         border: 2px solid blue;
       }
+      .five_pad {
+        padding: 5px;
+      }
     </style>
   </head>
   <body>
     <h1 class="check_border"> TUSHAR MAZUMDAR </h1>
-    <div class="wrapper check_border">
+    <div class="wrapper check_border five_pad">
       <div>
         <h3> SKILLS </h3>
         <h4> PROGRAMMING </h4>
