@@ -3,7 +3,7 @@
     <style>
       .wrapper{
         display:grid;
-        grid-template-columns:200px 1600px;
+        grid-template-columns:35% 65%;
       }
       .check_border {
         border: 2px solid blue;
