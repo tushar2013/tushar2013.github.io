@@ -11,7 +11,7 @@
     </style>
   </head>
   <body>
-    <h1 class="check_border> TUSHAR MAZUMDAR </h1>
+    <h1 class="check_border"> TUSHAR MAZUMDAR </h1>
     <div class="wrapper">
       <div>
         <h3> SKILLS </h3>
