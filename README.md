@@ -13,9 +13,11 @@
       <div>
         <h3> SKILLS </h3>
         <h4> PROGRAMMING </h4>
-        Python and iPython Notebook
-        SQL
-        JavaScript (D3.js), HTML, and CSS
+        <ul>
+          <li> Python and iPython Notebook </li>
+          <li> SQL </li>
+          <li> JavaScript (D3.js), HTML, and CSS </li>
+        </ul>
       </div>
       <div>
         <h3> EXPERIENCE </h3>
